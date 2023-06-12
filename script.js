@@ -6,8 +6,8 @@
 // TODO(developer): Set to client ID and API key from the Developer Console
 
 
-const API_KEY = 'AIzaSyDDPteJBk2EpMwln1boGOoprfO7X2_rsi4';
-const CLIENT_ID = '579246448609-v2c24avhet7h0ng6c421bo2962jdjpb4.apps.googleusercontent.com';
+const API_KEY = 'KEY';
+const CLIENT_ID = 'ID';
 const DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 const KEYS = ["Time","Event","Location","X","XI","FY","SY","Frere","Napier","Papworth","Streeton","Academics","Sports","Society Events", "Misc"]
 var TIMETABLE = {
